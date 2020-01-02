@@ -7,6 +7,8 @@
 - 对从机的控制  
 - 接受其它主机的控制  
 
+## [进度日志](log.md)
+
 
 ## 官方指南
 [CC3200 主页](http://www.ti.com.cn/product/cn/CC3200/technicaldocuments)    
