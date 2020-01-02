@@ -2,6 +2,12 @@
 
 > 使用TI公司的CC3200芯片，完成基于wifi访问的近场电机控制系统的实现，设计包含网页设计与基于芯片的编程。
 
+## 预期目标
+- 基于wifi的网页访问
+- 对从机的控制  
+- 接受其它主机的控制  
+
+
 ## 官方指南
 [CC3200 主页](http://www.ti.com.cn/product/cn/CC3200/technicaldocuments)    
 [CC3200 TI wiki](http://processors.wiki.ti.com/index.php/CC3100_%26_CC3200)  
