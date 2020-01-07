@@ -25,3 +25,12 @@
 
 
 [伯克利套接字（BSD Socket）](https://www.cnblogs.com/feng9exe/p/6993833.html)：SimpleLink的socket是基于BSD的
+![ARM Cortex-M4 + Wi-Fi MCU应用指南——CC3200 CCS基础篇](https://img1.doubanio.com/view/subject/l/public/s29030969.jpg) 
+ARM Cortex-M4 + Wi-Fi MCU应用指南——CC3200 CCS基础篇
+作者: 郭书军
+出版社: 电子工业出版社
+出版年: 2015-11
+页数: 320
+定价: 59.00元
+装帧: 平装
+ISBN: 9787121274848
