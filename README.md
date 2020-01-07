@@ -24,8 +24,8 @@
 [新手学习CC3200笔记——环境搭建以及Demo的四个实验](https://blog.csdn.net/weixin_43970678/article/details/91560775)
 
 
-[伯克利套接字（BSD Socket）](https://www.cnblogs.com/feng9exe/p/6993833.html)：SimpleLink的socket是基于BSD的
-![ARM Cortex-M4 + Wi-Fi MCU应用指南——CC3200 CCS基础篇](https://img1.doubanio.com/view/subject/l/public/s29030969.jpg) 
+[伯克利套接字（BSD Socket）](https://www.cnblogs.com/feng9exe/p/6993833.html)：SimpleLink的socket是基于BSD的    
+<img src="https://img1.doubanio.com/view/subject/l/public/s29030969.jpg" width = "100" height = "100" />
 ARM Cortex-M4 + Wi-Fi MCU应用指南——CC3200 CCS基础篇
 作者: 郭书军
 出版社: 电子工业出版社
