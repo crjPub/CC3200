@@ -4,7 +4,7 @@
 
 ## CC3200
 <img src="https://upload-images.jianshu.io/upload_images/20737737-21c0988c939a7918.jpg" width = "400" style="float:left"/>
-<img src="https://upload-images.jianshu.io/upload_images/20737737-df98da02fff513e2.jpg" width = "400" />
+<img src="https://upload-images.jianshu.io/upload_images/20737737-df98da02fff513e2.jpg" width = "400" style="float:left"/>
 
 ## 预期目标
 - 基于wifi的网页访问
