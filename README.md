@@ -2,6 +2,10 @@
 
 > 使用TI公司的CC3200芯片，完成基于wifi访问的近场电机控制系统的实现，设计包含网页设计与基于芯片的编程。
 
+## CC3200
+<img src="https://upload-images.jianshu.io/upload_images/20737737-21c0988c939a7918.jpg" width = "100" />
+<img src="https://upload-images.jianshu.io/upload_images/20737737-df98da02fff513e2.jpg" width = "100" />
+
 ## 预期目标
 - 基于wifi的网页访问
 - 对从机的控制  
@@ -25,7 +29,7 @@
 
 
 [伯克利套接字（BSD Socket）](https://www.cnblogs.com/feng9exe/p/6993833.html)：SimpleLink的socket是基于BSD的    
-<img src="https://img1.doubanio.com/view/subject/l/public/s29030969.jpg" width = "100" height = "100" />
+<img src="https://img1.doubanio.com/view/subject/l/public/s29030969.jpg" width = "100" />
 ARM Cortex-M4 + Wi-Fi MCU应用指南——CC3200 CCS基础篇
 作者: 郭书军
 出版社: 电子工业出版社
