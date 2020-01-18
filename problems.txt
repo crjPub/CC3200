@@ -1,2 +1,4 @@
 1、网络应用需要有
 2、SDK下载：http://www.ti.com/tool/download/CC3200SDK    其中有SDK和ServicePack
+
+3、坑爹的SmartConfig只支持2.4G网络，现在路由器大都默认2.4G和5GHz合并了，为了通用性，用ap方式配置profiles。
